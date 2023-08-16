@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.example.WizardTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-08-13T10:16:05" hostname="LAPTOP-I6LSV9UT" time="0.01">
+<testsuite name="org.example.WizardTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-08-15T09:05:54" hostname="pop-os" time="0.026">
   <properties/>
-  <testcase name="testWizardDuelTournament()" classname="org.example.WizardTest" time="0.002"/>
-  <testcase name="testWizardLearnSpell()" classname="org.example.WizardTest" time="0.001"/>
-  <testcase name="testWizardHealthDecreaseAfterBeingHit()" classname="org.example.WizardTest" time="0.001"/>
-  <testcase name="testWizardNameHealthSpells()" classname="org.example.WizardTest" time="0.001"/>
-  <testcase name="testWizardCastSpell()" classname="org.example.WizardTest" time="0.001"/>
+  <testcase name="testWizardDuelTournament()" classname="org.example.WizardTest" time="0.026"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
